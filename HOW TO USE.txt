@@ -1,0 +1,11 @@
+WELCOME TO SL MOD LOADER !!!
+
+----------------------------
+
+Python is required. : https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+
+Drop any .slmod file in the "Mods" Folder.
+
+Launcher can be clicked to launch the loader. create a SHORTCUT TO THE LAUNCHER or move the entire modlader to your desktop if you want to access it from there
+
+Enjoy ! 👈(ﾟヮﾟ👈)
